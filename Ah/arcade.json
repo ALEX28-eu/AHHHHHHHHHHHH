@@ -1,0 +1,39 @@
+{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "93ebbsih5js",
+	"viewport-width": 1800,
+	"viewport-height": 1800,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"c3version": "r397",
+	"ife": false,
+	"used-plugins": [
+		"Sprite",
+		"Text",
+		"Mouse",
+		"TiledBg",
+		"Keyboard",
+		"GameRecorder",
+		"video",
+		"Audio",
+		"Touch"
+	],
+	"used-behaviors": [
+		"solid",
+		"Bullet",
+		"EightDir",
+		"scrollto",
+		"bound",
+		"wrap",
+		"MoveTo",
+		"Fade",
+		"DragnDrop",
+		"LOS"
+	]
+}
